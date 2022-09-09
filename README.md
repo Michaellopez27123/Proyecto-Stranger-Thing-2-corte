@@ -11,9 +11,10 @@
 
 *Índice
 
-    Crud en LAMP - INNOVACOL
+    Crud - INNOVACOL
     Persistencia de Sesion PHP - LoginST
-    Clases, objetos, metodos, atributos en JAVA - StrangerThingsJAVA
+    Clases, objetos, metodos, atributos en JAVA - HTML - CSS - Stranger Things
+    
 *Descripción del proyecto
 
 *Estado del proyecto
