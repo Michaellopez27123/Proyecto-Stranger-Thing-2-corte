@@ -1,4 +1,4 @@
-# Proyecto-Stranger-Thing-2-corte
+# Proyecto-Stranger Thing 2 corte
 
 ![1  IMAGEN PRINCIPAL](https://user-images.githubusercontent.com/112735498/189271141-f85659dc-df79-4362-9662-ef1f1b4bb579.jpg)
 
